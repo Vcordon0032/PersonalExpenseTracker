@@ -21,4 +21,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "PersonalExpenseTracker"
 include(":app")
- 
+include(":data")
+include(":domain")
